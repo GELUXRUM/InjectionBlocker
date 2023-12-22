@@ -1,0 +1,9 @@
+set(SOURCES
+	include/ConfigParser.h
+	include/Hooks.h
+	include/SimpleIni.h
+	src/detourxs/detourxs.cpp
+	src/hooks.cpp
+	src/main.cpp
+	src/PCH.h
+)
